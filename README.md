@@ -1,7 +1,7 @@
 # ExtendScript
 Tutorials for automating Adobe<sup>&#x00AE;</sup> FrameMaker<sup>&#x00AE;</sup> with ExtendScript.
 
-##About ExtendScript
+## About ExtendScript
 
 ExtendScript was developed by Adobe for the Creative Suite products.
 In 2011, with the release of FrameMaker version 10, it also became available in the 
@@ -16,7 +16,7 @@ ExtendScript provides access to most of the functions of FrameMaker,
 allowing you to automate tasks in FrameMaker without requiring a programming environment
 like Visual Studio to make it all work.
 
-##About this repository
+## About this repository
 
 As the object model of FrameMaker is extensive and ExtendScript - being based
 on JavaScript - can be unforgiving about typos and small scripting errors, 
@@ -26,7 +26,7 @@ A group of experienced scripters have joined forces to create this repository,
 which contains an ever expanding series of tutorials as well as sample scripts for every
 FrameMaker user to explore and put to their own use.
 
-##Contributions
+## Contributions
 
 If you have experience in ExtendScript for FrameMaker you are welcome to join
 the authoring team. If you have remarks, questions, ideas for tutorials
